@@ -1,6 +1,6 @@
 # screenshot-to-code
 
-A simple tool to convert screenshots, mockups and Figma designs into clean, functional code using AI. **Now supporting Claude Sonnet 3.5 and GPT-4o!**
+A simple tool to convert screenshots, mockups and Figma designs into clean, functional code using AI. Now supporting Claude Sonnet 3.7!
 
 https://github.com/abi/screenshot-to-code/assets/23818/6cebadae-2fe3-4986-ac6a-8fb9db030045
 
@@ -16,7 +16,7 @@ Supported stacks:
 
 Supported AI models:
 
-- Claude Sonnet 3.5 - Best model!
+- Claude Sonnet 3.7 - Best model!
 - GPT-4o - also recommended!
 - DALL-E 3 or Flux Schnell (using Replicate) for image generation
 
@@ -32,7 +32,7 @@ We also just added experimental support for taking a video/screen recording of a
 
 ## 🌍  Hosted Version
 
-[Try it live on the hosted version (paid)](https://screenshottocode.com). If you're a large or medium enterprise (50+ employees), [book a meeting to explore custom enterprise plans](https://cal.com/abi-raja-wy2pfh/30min).
+[Try it live on the hosted version (paid)](https://screenshottocode.com).
 
 ## 🛠 Getting Started
 
